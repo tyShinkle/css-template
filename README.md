@@ -1,1 +1,1 @@
-# CSS Template - 2023
+# CSS Template
